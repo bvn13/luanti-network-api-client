@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "minetest-network-api-client"
+version = "0.1.0"
+description = ""
+authors = ["bvn13 <from.github@bvn13.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sphinx = "^8.1.3"
+sphinx-rtd-theme = "^3.0.2"
+wheel = "^0.45.1"
+twine = "^6.0.1"
+pytest = "^8.3.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
