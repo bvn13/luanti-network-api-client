@@ -1,7 +1,7 @@
 from miney.minetest import Minetest
 
 
-mt = Minetest(server='127.0.0.1', port=29999, playername='bvn13')
+mt = Minetest(server='bvn13.me', port=29999, playername='bvn13')
 
 print("Connected to", mt)
 

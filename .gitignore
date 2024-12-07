@@ -103,3 +103,6 @@ __pycache__/
 # miney
 tmp
 Minetest
+
+samples/
+samples/**
